@@ -1,0 +1,9 @@
+google-auth==2.15.0
+google-cloud==0.34.0
+google-cloud-bigquery==3.4.0
+google-cloud-bigquery-storage==2.16.2
+google-cloud-core==2.3.2
+pandas==1.5.2
+db-dtypes==1.0.4
+pandas_gbq==0.18.1
+pydata-google-auth==1.4.0
